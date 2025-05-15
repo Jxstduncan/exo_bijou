@@ -1,6 +1,6 @@
 {
   "name": "exo-eshopy",
-  "homepage": "https://Jxstduncan.github.io/bijou",
+  "homepage": "https://jxstduncan.github.io/exo_bijou/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "gh-pages": "^6.3.0",
