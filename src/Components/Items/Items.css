@@ -1,0 +1,10 @@
+.ptitimg{
+    border: 1px black solid;
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+}
+
+.dflex{
+    display: flex;
+}
